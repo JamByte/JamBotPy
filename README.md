@@ -1,4 +1,4 @@
-# JamBot *
+# JamBot <img src="https://cdn.discordapp.com/attachments/337140831679152128/389108735932628993/JamBot.png">*
 Jam Bot, an economy bot for Discord by JamByte.
 
 # Setup
